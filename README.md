@@ -1,19 +1,10 @@
+
 # Cookies App
 
 **The goal of this project is to hook up the “Eat Cookie" button so that, when it's clicked, the image and the text change as seen below:**
 
-![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/courtcounter.png "Screenshot 1")
+![alt text](https://github.com/evamaina/Cookies/blob/master/app/src/main/res/drawable/cookies.png "Screenshot 1")
 
-
-**This project is about combining various ideas and skills. They include:**
-
-* Adding button code to the app
-
-* Updating views
-
-* Properly scoping variables
-
-* Finding views by their ID
 
 ## Pre-requisites
 1. Android SDK v27
@@ -26,10 +17,9 @@
 
 This sample uses the Gradle build system. To build this project, the "gradlew build" command or "Import Project" is used in Android Studio.
 
-#### Below are the screenshots for the project
+#### Below are the screenshots for the project:
 
-![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/courtcounter.png "Screenshot 1")
+![alt text](https://github.com/evamaina/Cookies/blob/master/app/src/main/res/drawable/before.png "Screenshot 2")
 
-![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/me.png "Screenshot 2") 
+![alt text](https://github.com/evamaina/Cookies/blob/master/app/src/main/res/drawable/after.png "Screenshot 2") 
 
-![alt text](https://github.com/evamaina/Court-Counter-App/blob/master/app/src/main/res/drawable/courtcounter2.png "Screenshot 3") 
